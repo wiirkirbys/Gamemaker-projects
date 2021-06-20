@@ -1,0 +1,2 @@
+max jump height- around 3.5, can land on 3
+max jump length- 7.5, can land on 8

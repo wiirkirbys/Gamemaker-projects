@@ -1,0 +1,1 @@
+draw_sprite(spr_particle,-1,x,y);

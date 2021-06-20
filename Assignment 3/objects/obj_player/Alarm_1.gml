@@ -1,0 +1,1 @@
+shotDelay = .5

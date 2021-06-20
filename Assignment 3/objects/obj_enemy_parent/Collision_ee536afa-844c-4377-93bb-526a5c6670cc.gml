@@ -1,0 +1,1 @@
+self.hitPoints -= obj_bullet_player.damage

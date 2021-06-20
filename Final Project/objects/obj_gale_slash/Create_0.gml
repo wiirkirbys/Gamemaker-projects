@@ -1,0 +1,1 @@
+audio_play_sound(sfx_slice,1,false) //sound from zapsplat.com

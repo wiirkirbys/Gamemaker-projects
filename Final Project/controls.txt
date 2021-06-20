@@ -1,0 +1,5 @@
+Controls:
+arrow keys to move
+z to confirm
+x to go back
+z and x do nothing on overworld

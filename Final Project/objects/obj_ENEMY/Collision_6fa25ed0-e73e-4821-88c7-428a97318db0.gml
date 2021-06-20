@@ -1,0 +1,1 @@
+self.stat_health -= 10
